@@ -1,4 +1,4 @@
-# Workshop-Pemrograman-Perangkat-Bergerak-
+# Workshop Pemrograman Perangkat Bergerak
 Penugasan Mingguan Mata Kuliah (Latihan)
 
 # Nama : Arianto Zaki Hamdalah
