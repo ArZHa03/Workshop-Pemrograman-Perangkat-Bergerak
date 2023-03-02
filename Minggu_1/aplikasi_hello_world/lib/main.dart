@@ -21,14 +21,14 @@ class MyApp extends StatelessWidget {
             width: 150,
             height: 50,
             child: const Text(
-              "Hello World. Saya sedang mempelajari flutter mengenai widget text",
+              "Hello World. Saya sedang mempelajari flutter mengenai widget text. Ada beberapa masalah terjadi",
               maxLines: 3,
               overflow: TextOverflow.ellipsis,
               textAlign: TextAlign.center,
               style: TextStyle(
                   color: Colors.amberAccent,
                   fontStyle: FontStyle.italic,
-                  fontWeight: FontWeight.w700,
+                  fontWeight: FontWeight.w500,
                   fontSize: 13),
  
               /* overflow: TextOverflow.clip,
