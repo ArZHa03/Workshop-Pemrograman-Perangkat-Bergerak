@@ -1,0 +1,40 @@
+name: aplikasi_flutter_layout
+description: A new Flutter project about Layout.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.2 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/submarine.jpg
+    - assets/images/monkasel_1.webp
+    - assets/images/monkasel_2.jpg
+    - assets/images/monkasel_3.jpg
+
+  fonts:
+    - family: Lobster
+      fonts:
+        - asset: assets/fonts/Lobster-Regular.ttf
+
+    - family: Oxygen
+      fonts:
+        - asset: assets/fonts/Oxygen-Regular.ttf
+        - asset: assets/fonts/Oxygen-Bold.ttf
+          weight: 700
