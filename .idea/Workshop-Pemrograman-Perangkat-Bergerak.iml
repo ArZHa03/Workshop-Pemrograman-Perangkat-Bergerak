@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_2/aplikasi_dart_basic/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_2/aplikasi_dart_basic/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_2/aplikasi_dart_basic/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_1/aplikasi_hello_world/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_1/aplikasi_hello_world/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_1/aplikasi_hello_world/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_3/aplikasi_flutter_layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_3/aplikasi_flutter_layout/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_3/aplikasi_flutter_layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_4/aplikasi_state_management/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_4/aplikasi_state_management/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Minggu_4/aplikasi_state_management/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
